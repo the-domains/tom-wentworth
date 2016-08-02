@@ -1,6 +1,6 @@
 name: Tom Wentworth
 favicon: null
-layout_spectrum: 0.9627140713855624
+layout_spectrum: 0.25207
 typography_spectrum: 0.6463489399757236
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.902087606722489
-  lightness: 0.7586523271165788
-  saturation: 0.7389309832360595
-  rhythmicContrast: 0.9745324060786515
+    - '#e9c69b'
+    - '#b8aa81'
+    - '#313534'
+    - '#7d8e70'
+    - '#505c52'
+  brandStrength: 0.5
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
