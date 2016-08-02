@@ -1,7 +1,7 @@
 name: Tom Wentworth
 favicon: null
-layout_spectrum: 0.25207
-typography_spectrum: 0.61997
+layout_spectrum: 0.24503
+typography_spectrum: 0.4001
 title: perpetual motion
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#e9c69b'
-    - '#b8aa81'
-    - '#313534'
-    - '#7d8e70'
-    - '#505c52'
+    - '#feffc6'
+    - '#835940'
+    - '#060004'
+    - '#fef102'
+    - '#750f1c'
   brandStrength: 0.5
   lightness: 0.5625
   saturation: 0.5
